@@ -1,2 +1,2 @@
-# C-_algorithm
+# C++_algorithm
 C++
